@@ -6,5 +6,5 @@
 
 2. Create a file named **conf.json** in this folder with the exact same structure of the conf_example.json file.  
 
-3. Run python app.py to see an application using the code present here :bowtie:.
+3. Run python app.py to see an application using the code present here
 
